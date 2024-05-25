@@ -1,0 +1,16 @@
+Proceso Ejercisio_mensaje_nombre_usuario
+	//Ejercisio Pedir nombre al usuario y mostrar un mensaje por pantalla
+	
+	//Aqui vamos a declarar una variable indicada para el caso 
+	Definir nombre Como Caracter;
+	
+	//Le preguntaremos el nombre
+	Escribir "Como te llamas";
+	
+	//Aqui vamos a inicializar la variable
+	Leer nombre;
+	
+	//Ahora podemos escribir el enunciado que queramos con la variable nombre para que cuando se ubique en el texto, se asigniara
+	//el valor que le hallamos puesto, como por ejemplo el nombre de alguien
+	Escribir "Hola " ,nombre, ", deja de ver el telefono y estudia, caramba.";
+FinProceso
