@@ -1,0 +1,25 @@
+//Pedir su nombre al usuario y mostrar un mensaje por pantalla
+
+Proceso Ejercicio1
+	//El titulo del proceso debe de estar unido para que lo acepte como titulo y no algo mas, se podria separar de estas maneras: mi_nombre, miNombre o MiNombre
+	
+	
+	//Para definir esto como logica limpia se podria decir que "a "como variable, "b" pedir la informacion que se necesita y por ultimo "c" leer la respuesta del usuario
+	
+	//Esto se podria graficar asi:
+	//a = VARIABLE
+	//b = PEDIR INFORMACIÓN
+	//c = RECIBIR INFORMACION
+	
+	//Esto como codigo se podria graficar de esta manera.
+	
+	Definir nombre Como Caracter;
+	Escribir "Escribe tu nombre";
+	leer nombre;
+	//Recuerda estar muy pendiente de colocar ";" en todo momento
+	
+	Escribir "hola ", nombre, " recuerda estudiar";
+	//Los comentarios que si apareceran al usuario deben de estar entre comillas y hay que separarlas con comas como anteriormente para poder introducir el texto y la variable con el resultado que obtuvimos
+	
+ 	
+FinProceso
