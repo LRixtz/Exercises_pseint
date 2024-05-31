@@ -1,0 +1,12 @@
+Proceso Ejercicio3
+	//Convertir una distancia en millas náuticas a metros.
+	
+	//logcia limpia: definir y leer "a" y "b" seia igual a "a" pero multiplicado por 1852
+	
+	Definir millaNautica, metros Como Real;;
+	Escribir "CONVERSOR DE MILLAS NAUTICAS A METROS";
+	Escribir "Escribe la distancia en millas nauticas";
+	Leer millaNautica;
+	metros<- millaNautica*1852;
+	Escribir "La distacia de ", millaNautica, " en metros es: ", metros;
+FinProceso

@@ -1,0 +1,15 @@
+Proceso Ejercicio2
+	//Pasar grados celsius a kelvin
+	
+	//logica limpia: leer "a" escribir "a+273" escribir "a*1.8 + 32."
+	
+	Definir cel,fan,kel Como Real;
+	Escribir "CONVERSOR DE GRADOS CELSIUS";
+	escribir "Escribe el valor";
+	leer cel;
+	Escribir "Estos son los resultados:";
+	Escribir "Grados celsius ", Cel, "°C";
+	Escribir "Grados kelvin ", cel + 273,  "°k";
+	Escribir "Grados farenheit ", cel*1.8+32, "°F";
+	
+FinProceso
